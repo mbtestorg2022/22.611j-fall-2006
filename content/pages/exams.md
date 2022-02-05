@@ -24,7 +24,36 @@ Final Exam ([PDF]({{< baseurl >}}/resources/final_exam_05))
 
 ### 2002
 
-| EXAMS | SOLUTIONS |
-| --- | --- |
-| Mid-term exam ([PDF]({{< baseurl >}}/resources/midterm_2002)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/midterm02_sol)) |
-| Final exam ([PDF]({{< baseurl >}}/resources/finalexam2002)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/finalexam02_sol))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term exam ([PDF]({{< baseurl >}}/resources/midterm_2002))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/midterm02_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam ([PDF]({{< baseurl >}}/resources/finalexam2002))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/finalexam02_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
