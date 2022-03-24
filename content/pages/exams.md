@@ -42,7 +42,7 @@ SOLUTIONS
 Mid-term exam ([PDF]({{< baseurl >}}/resources/midterm_2002))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/midterm02_sol))
+([PDF]({{< baseurl >}}/resources/midterm02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Mid-term exam ([PDF]({{< baseurl >}}/resources/midterm_2002))
 Final exam ([PDF]({{< baseurl >}}/resources/finalexam2002))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/finalexam02_sol))
+([PDF]({{< baseurl >}}/resources/finalexam02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

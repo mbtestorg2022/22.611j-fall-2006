@@ -6,7 +6,7 @@ uid: e8d235a4-182e-fef2-a99a-7057e7cc9f08
 
 The following is a list of Plasma related resources:
 
-NRL Plasma Formulary, 2002 Revised Edition: Formulary PDF file (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://emandpplabs.nscee.edu/notes/NRL_FORMULARY_02.pdf))
+NRL Plasma Formulary, 2002 Revised Edition: Formulary PDF file ([PDF](https://emandpplabs.nscee.edu/notes/NRL_FORMULARY_02.pdf))
 
 [MIT Plasma Science and Fusion Center](http://www.psfc.mit.edu/)
 
