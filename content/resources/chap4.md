@@ -9,6 +9,7 @@ description: 'Lecture notes on fluid description of plasma, particle conservatio
   simple analysis of pinches.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/c168b1b911621d2299f82eb8c1178b70_chap4.pdf
 file_type: application/pdf
+parent_uid: 6b05fc35-d4ff-e451-0f48-8d14f9804182
 resourcetype: Document
 title: chap4.pdf
 uid: c168b1b9-1162-1d22-99f8-2eb8c1178b70

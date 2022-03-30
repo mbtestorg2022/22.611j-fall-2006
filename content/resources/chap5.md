@@ -10,6 +10,7 @@ description: 'Lecture notes on electromagnetic waves in plasmas, general treatme
   waves.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/0940abd0f5c16aa3972c8796c8ca52e2_chap5.pdf
 file_type: application/pdf
+parent_uid: 6b05fc35-d4ff-e451-0f48-8d14f9804182
 resourcetype: Document
 title: chap5.pdf
 uid: 0940abd0-f5c1-6aa3-972c-8796c8ca52e2
